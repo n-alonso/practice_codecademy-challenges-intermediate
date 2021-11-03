@@ -10,6 +10,7 @@ List of easier/short challenges:
 
 List of harder/longer challenges:
  1. Return Factorial
+ 2. String's Sub-Length
 
 List of Projects: 
  1. 
