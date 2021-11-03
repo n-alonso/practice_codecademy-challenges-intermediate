@@ -11,6 +11,7 @@ List of easier/short challenges:
 List of harder/longer challenges:
  1. Return Factorial
  2. String's Sub-Length
+ 3. Groceries
 
 List of Projects: 
  1. 
