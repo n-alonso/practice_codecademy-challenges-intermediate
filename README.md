@@ -9,7 +9,7 @@ List of easier/short challenges:
  3. Conver to Baby
 
 List of harder/longer challenges:
- 1. 
+ 1. Return Factorial
 
 List of Projects: 
  1. 
