@@ -4,4 +4,4 @@ All files in this repository are practice challenges from the JavaScript Challen
 They are all focused on _Vanilla JavaScript_.  
 
 List of tasks:  
- 1. 
+ 1. Reversed Array (without using `array.pototype.reverse()`)
