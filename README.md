@@ -15,3 +15,4 @@ List of harder/longer challenges:
 
 List of Projects: 
  1. Lodash: create my own library that mirrors some of the Lodash's methods functionality
+ 2. Credit Card Checker
