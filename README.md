@@ -14,4 +14,4 @@ List of harder/longer challenges:
  3. Groceries
 
 List of Projects: 
- 1. 
+ 1. Lodash: create my own library that mirrors some of the Lodash's methods functionality
